@@ -14,6 +14,8 @@ class App extends Component {
             <View style={styles.box3}>
               <Text style={styles.text}>my third app</Text>
             </View>
+
+            <Text>Testing</Text>
  
                 
             </View>
