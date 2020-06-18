@@ -16,6 +16,7 @@ class App extends Component {
             </View> git 
 
             <Text>Testing</Text> yytty
+            <Text>Testing one</Text> yytty
  
                 
             </View>
