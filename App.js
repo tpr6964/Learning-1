@@ -15,7 +15,7 @@ class App extends Component {
               <Text style={styles.text}>my third app</Text>
             </View>
 
-            <Text>Testing</Text>
+            <Text>Testing</Text> yytty
  
                 
             </View>
